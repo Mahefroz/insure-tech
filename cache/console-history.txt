@@ -1,0 +1,553 @@
+ethers.utils.formatEther("3963877391197344453575983046348115674221700746820753546331534351508065746944")
+ethers.utils.formatEther("3963877391197344453575983046348115674221700746820753546331534351508065746944").toNumber()
+ethers.utils.formatEther("3963877391197344453575983046348115674221700746820753546331534351508065746944")
+ethers.utils.formatEther(3963877391197344453575983046348115674221700746820753546331534351508065746944)
+num.toNumber()
+ans
+let ans = num.dividedBy(denom).toNumber()
+let denom = new BigNumber(10).pow(16)
+let num=new BigNumber(3963877391197344453575983046348115674221700746820753546331534351508065746944)
+const BigNumber = require('bignumber.js');
+3963877391197344453575983046348115674221700746820753546331534351508065746944
+3963877391197344453575983046348115674221700746820753546331534351508065746944.toNumber()
+import BigNumber
+const porc = BigNumber.from(3963877391197344453575983046348115674221700746820753546331534351508065746944)
+const app = await contract.attach('0x5FbDB2315678afecb367f032d93F642f64180aa3')
+const contract = await ethers.getContractFactory('WellsDiv');
+await app.safeMint('0x70997970C51812dc3A010C7d01b50e0d17dc79C8',"3939sass")
+await app.unpause()
+await app.safeMint('0x70997970C51812dc3A010C7d01b50e0d17dc79C8',"3939sass")
+await app.safeMint('0x70997970C51812dc3A010C7d01b50e0d17dc79C8',"3939")
+await app.safeMint('0x90F79bf6EB2c4f870365E785982E1f101E93b9123',"6")
+await app.pause()
+await app.safeMint('0x90F79bf6EB2c4f870365E785982E1f101E93b9123',"6")
+await app.safeMint('0x90F79bf6EB2c4f870365E785982E1f101E93b906',"6")
+await app.safeMint('0x70997970C51812dc3A010C7d01b50e0d1eyc7128',"a")
+await app.safeMint('0x709',"")
+await app.safeMint('0x70997970C51812dc3A010C7d01b50e0d1eyc79C8',"")
+await app.safeMint('0x70997970C51812dc3A010C7d01b50e0d17dc79C8',"")
+await app.safeMint('0x70997970C51812dc3A010C7d01b50e0d17dc79C8',"5")
+await app.safeMint('0x70997970C51812dc3A010C7d01b50e0d17dc79C8',"4")
+await app.safeMint('0x70997970C51812dc3A010C7d01b50e0d17dc79C8',"3")
+await app.ownerOf(2)
+await app.ownerOf(1)
+await app.safeMint('0x70997970C51812dc3A010C7d01b50e0d17dc79C8',"2")
+await app.safeMint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',"1")
+const app = await contract.attach('0x59b670e9fA9D0A427751Af201D676719a970857b')
+const contract = await ethers.getContractFactory('WellsNft');
+await app.safeMint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',"t11")
+await app.safeMint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',"t10")
+await app.safeMint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',"t9")
+await app.safeMint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',"t8")
+await app.safeMint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',"t7")
+await app.safeMint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',"t6")
+await app.safeMint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',"t5")
+await app.safeMint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',"t4")
+await app.tokenURI(3)
+await app.ownerOf(3)
+await app.safeMint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',"/t1.json")
+await app.tokenURI(1)
+await app.ownerOf(2)
+await app.ownerOf(1)
+await app.ownerOf(0)
+await app.safeMint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',"t1")
+const app = await contract.attach('0x610178dA211FEF7D417bC0e6FeD39F05609AD788')
+const contract = await ethers.getContractFactory('WellsNft');
+await app.ownerOf(1)
+await app.ownerOf(0)
+await app.ownerOf(2)
+await app.ownerOf(1)
+await app.safeMint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',"token1")
+await app.ownerOf("token1")
+await app.ownerOf("Token1")
+await app.ownerOf("token1")
+await app.safeMint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',"token1")
+await app.symbol()
+await app.name()
+app
+const app = await contract.attach('0xa513E6E4b8f2a923D98304ec87F64353C4D5C853')
+const contract = await ethers.getContractFactory('WellsNft');
+const app = await contract.attach('0xa513E6E4b8f2a923D98304ec87F64353C4D5C853')
+const contract = await ethers.getContractFactory('Auditsiq');
+await user2.add"0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",true)
+await user2.addCompanyAdmins("0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",true)
+await app.addCompanyAdmins("0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",true)
+await app.addCompanyAdmins("0x70997970C51812dc3A010C7d01b50e0d17dc79C8",true)
+await app.addCompanyAdmins("0x70997970C51812dc3A010C7d01b50e0d17dc79C8")
+await user2.addToken("edjh",'0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199')
+await user2.addToken("edjh",'0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.user2.addToken("edjh",'0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.addToken("edjh",'0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.user2.addToken("edjh",'0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+const user2=await app.connect('0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199')
+await app.connect('0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199').addToken('2hjdsd','0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.connect('0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199').addToken('ahsja',1)
+await app.connect('0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199').addToken('ahsja')
+await app.connect('0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199').addToken('ahsja")
+contract.connect('0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199')
+await app.addAuditors(['0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC'],{from:'0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC'})
+await app.addAuditors(['0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC'])
+await contract.attach('0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199')
+eth.defaultAccount = '0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199';
+await eth.defaultAccount = '0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199';
+await eth.getBalance('0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199')
+eth.getBalance('0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199')
+const eth = ethers.provider
+const { ethers } = require("hardhat")
+for (const account of accounts) {console.log("%s (%i ETH)",account.address, ethers.utils.formatEther( await provider.getBalance(account.address)));}
+const provider = await ethers.provider;
+const accounts = await ethers.getSigners()
+eth.accounts()
+await app.addAuditors(['0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266'])
+await app.addAuditors(['0x000000000000000000000000000000000'])
+await app.addAuditors(['0x70997970C51812dc3A010C7d01b50e0d17dc79C9'])
+await app.addAuditors(['0x70997970C51812dc3A010C7d01b50e0d17dc79C8'])
+await app.addCompanyAdmins('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',true)
+await app.addToken("abc","0x920320")
+const app = await contract.attach('0x5FbDB2315678afecb367f032d93F642f64180aa3')
+const app = await contract.attach('0x5FbDB2315678afecb367f032d93F642f64180aa3')const app = await contract.attach('0x5FbDB2315678afecb367f032d93F642f64180aa3')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.addAuditors(['0x90F79bf6EB2c4f870365E785982E1f101E93b906'])
+await app.addAuditors(['0x70997970C51812dc3A010C7d01b50e0d17dc79C8','0x90F79bf6EB2c4f870365E785982E1f101E93b906'])
+await app.addAuditors(['0x70997970C51812dc3A010C7d01b50e0d17dc79C8',''0x90F79bf6EB2c4f870365E785982E1f101E93b906'])
+await app.addAuditors(['0x70997970C51812dc3A010C7d01b50e0d17dc79C8'])
+await app.addCompanyAdmins('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',true)
+app
+const app = await contract.attach('0x4A679253410272dd5232B3Ff7cF5dbB88f295319')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.addAuditors(['0x70997970C51812dc3A010C7d01b50e0d17dc79C8'])
+await app.addAuditors(['0x70997970C51812dc3A010C7d01b50e0d17dc79C8','0x90F79bf6EB2c4f870365E785982E1f101E93b906'])
+await app.addCompanyAdmins('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',true)
+await app.addCompanyAdmins('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+app
+const app = await contract.attach('0x3Aa5ebB10DC797CAC828524e59A333d0A371443c')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.addAuditors(["0xA9B724E711EbC6ee72056b45F5E400f917771657"])
+await app.addAuditors(["0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"])
+await app.addAuditors("0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+await app.addAuditors("0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",true)
+await app.addCompanyAdmins("0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",true)
+await app.addCompanyAdmins(["0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"])
+await app.addAuditor(["0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"])
+await app.addAuditors(["0xA9B724E711EbC6ee72056b45F5E400f917771657"])
+await app.addAuditor(["0xA9B724E711EbC6ee72056b45F5E400f917771657"])
+await app.addCompanyAdmins("0xC59F19014AAD9E860B13aeA5d213906C3087710f",true)
+app
+const app = await contract.attach('0x0DCd1Bf9A1b36cE34237eEaFef220932846BCD82')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.addAuditors(["0x0"])
+await app.addAuditors(["0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"])
+await app.addAuditors(["0xA9B724E711EbC6ee72056b45F5E400f917771657"])
+await app.addAuditors(["0xA9B724E711EbC6ee72056b45F5E400f917771657",""])
+await app.addAuditors(["0xA9B724E711EbC6ee72056b45F5E400f917771657","0xE0c5ed0A0B6589301403953C7AD8594E49af2980"])
+await app.addAuditors(["0xA9B724E711EbC6ee72056b45F5E400f917771657","0xE0c5ed0A0B6589301403953C7AD8594E70"])
+await app.addAuditors(["0xA9B724E711EbC6ee72056b45F5E400f917771657","0xE0c5ed0A0B6589301403953C7AD8594E49af2470"])
+await app.addCompanyAdmins("0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",true)
+await app.addAuditors(["0xA9B724E711EbC6ee72056b45F5E400f917771657","0xE0c5ed0A0B6589301403953C7AD8594E49af2470"])
+await app.addAuditors(["0xA9B724E711EbC6ee72056b45F5E400f917771657","0xE0c5ed0A0B6589301403953C7AD8594E49af2470"],{value:ethers.utils.parseEther("0.1")})
+await app.addAuditors(["0xA9B724E711EbC6ee72056b45F5E400f917771657","0xE0c5ed0A0B6589301403953C7AD8594E49af2470"],{value:ethers.utils.parseEther("0.1"))
+await app.addAuditors(["0xA9B724E711EbC6ee72056b45F5E400f917771657","0xE0c5ed0A0B6589301403953C7AD8594E49af2470"])
+await app.addCompanyAdmins("0xC59F19014AAD9E860B13aeA5d213906C3087710f",true)
+app
+const app = await contract.attach('0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.addCompanyAdmins("0xE1313dfD371ceF14890C63b8819Ac9Ff54ED061E",false)
+await app.addCompanyAdmins("0xA9B724E711EbC6ee72056b45F5E400f917771657",false)
+await app.addCompanyAdmins("0xA9B724E711EbC6ee72056b45F5E400f917771657",true)
+await app.addCompanyAdmins("",true)
+await app.addCompanyAdmins("0x5FbDB2315678afecb367f032d93F642f64180aa3",true)
+await app.addCompanyAdmins("0xA9B724E711EbC6ee72056b45F5E400f917771657",true)
+const app = await contract.attach('0x5FbDB2315678afecb367f032d93F642f64180aa3')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.addCompanyAdmins("0x000000000000",true)
+await app.addCompanyAdmins("0xA9B724E711EbC6ee72056b45F5E400f917771657",true)
+await app.addCompanyAdmins("0xA9B724E711EbC6ee72056b45F5E400f917771657",false)
+await app.addCompanyAdmins("0x5FC8d32690cc91D4c39d9d3abcBD16989F875707",true)
+await app.addCompanyAdmins("0xA9B724E711EbC6ee72056b45F5E400f917771657",true)
+await app.addCompanyAdmins("0xC59F19014AAD9E860B13aeA5d213906C3087710f",true)
+await app.addCompanyAdmins("0xC59F19014AAD9E860B13aeA5d213906C3087120f",true)
+await app.addCompanyAdmins("0xC59F19014AAD9E860B13aeA5d213906C3087710f",true)
+app
+const app = await contract.attach('0x5FC8d32690cc91D4c39d9d3abcBD16989F875707')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.addAuditor(1,["0xC59F19014AAD9E860B13aeA5d213906C3087710f"])
+await app.addAuditor(1,["0x00000000000000000000","0xC59F19014AAD9E860B13aeA5d213906C3087710f"])
+await app.addAuditor(1,["0x00000000000000000000"])
+await app.addAuditor(1,["0xC59F19014AAD9E860B13aeA5d213906C3087710f"])
+await app.addAuditor(["0xC59F19014AAD9E860B13aeA5d213906C3087710f"])
+const app = await contract.attach('0x5FbDB2315678afecb367f032d93F642f64180aa3')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.getId("abc")
+await app.addToken("")
+await app.addToken("abc")
+const app = await contract.attach('0x5FC8d32690cc91D4c39d9d3abcBD16989F875707')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.getId("abc")
+await app.addToken("")
+await app.addToken("abc")
+app
+const app = await contract.attach('0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.addToken("abc")
+const app = await contract.attach('0x5FbDB2315678afecb367f032d93F642f64180aa3')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.addToken("")
+await app.addToken("abc")
+const app = await contract.attach('0x95401dc811bb5740090279Ba06cfA8fcF6113778')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.ownerOf(3)
+await app.ownerOf(2)
+await app.ownerOf(1)
+await app.approve('0x70997970C51812dc3A010C7d01b50e0d17dc79C8',1)
+await approve('0x70997970C51812dc3A010C7d01b50e0d17dc79C8',1)
+app
+await app.ownerOf(3)
+await app.ownerOf(2)
+await app.ownerOf(1)
+await app.ownerOf(0)
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.addToken("abcd")
+await app.addToken("")
+await app.addToken("abc")
+const app = await contract.attach('0xa82fF9aFd8f496c3d6ac40E2a0F282E47488CFc9')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.addToken("abc")
+const app = await contract.attach('0xc3e53F4d16Ae77Db1c982e75a937B9f60FE63690')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.addToken("abcdef")
+await app.addToken("abc")
+await app.addToken("")
+await app.addToken("abc")
+const app = await contract.attach('0x09635F643e140090A9A8Dcd712eD6285858ceBef')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.ownerOf(2)
+await app.ownerOf(1)
+await app.ownerOf(0)
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.addToken("second")
+await app.ownerOf(1)
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.ownerOf(0)
+await app.ownerOf(1)
+await app.callStatic.addToken("1")
+await app.addToken("1")
+await app.callStatic.addToken("2")
+await app.callStatic.addToken("1")
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+app
+const app = await contract.attach('0xa85233C63b9Ee964Add6F2cffe00Fd84eb32338f')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.ownerOf(3)
+await app.ownerOf(2)
+await app.ownerOf(1)
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.tokenURI(4)
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.tokenURI(3)
+await app.tokenURI(2)
+await app.tokenURI(1)
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.addToken('1234')
+await app.addToken('abcdef')
+await app.addToken('')
+await app.addToken('abcdef')
+await app.addToken('abc')
+const app = await contract.attach('0x3Aa5ebB10DC797CAC828524e59A333d0A371443c')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.addToken("abc")
+await app.addToken("aa")
+await app.addToken("")
+await app.addToken("abc")
+app
+const app = await contract.attach('0x0DCd1Bf9A1b36cE34237eEaFef220932846BCD82')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.addToken("abc")
+await app.addToken("")
+await app.callStatic.addToken("")
+await app.callStatic.addToken("ahahasdsd")
+await app.addToken("ahahasdsd")
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.addToken("ahaha")
+const app = await contract.attach('0xa513E6E4b8f2a923D98304ec87F64353C4D5C853')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.addToken('aasdjhdhseu',{value:ethers.utils.parseEther("0.1")})
+await app.addToken('aasdjhdhseu',{value:ethers.utils
+await app.addToken("123")
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+app
+const app = await contract.attach('0x0165878A594ca255338adfa4d48449f69242Eb8F')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.addToken("abcdefsdhsdhdhsjhg")
+await app.addToken("abcdefg")
+await app.addToken("abcd")
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.addToken("abcd")
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+const app = await contract.attach('0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.callStatic.addToken("bafkreiex3wxntrlgxsitljajw6cpimorblf45jge6ablzrj54lp6m3abkm")
+await app.callStatic.addToken("bafkreiex3wxntrlgxsitljajw6cpimorblf45jge6ablzrj54lp6m3abkm").then((res)=>{res=data})
+await app.ownerOf(1)
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.addToken("bafkreiex3wxntrlgxsitljajw6cpimorblf45jge6ablzrj54lp6m3yxkm")
+await app.symbol()
+await app.name()
+app
+const app = await contract.attach('0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.addToken("bafkreiex3wxntrlgxsitljajw6cpimorblf45jge6ablzrj54lp6m3yxkm",{value:ethers.utils.parseEther("0.1")})
+await app.addToken('bafkreiex3wxntrlgxsitljajw6cpimorblf45jge6ablzrj54lp6m3yxkm',{value:ethers.utils.parseEther(0.1)})
+await app.addToken('bafkreiex3wxntrlgxsitljajw6cpimorblf45jge6ablzrj54lp6m3yxkm')
+app
+const app = await contract.attach('0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.addToken("bafkreiex3wxntrlgxsitljajw6cpimorblf45jge6ablzrj54lp6m3yxkm")
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+app
+const app = await contract.attach('0x5FbDB2315678afecb367f032d93F642f64180aa3')
+const contract = await ethers.getContractFactory('Auditsiq');
+await app.addMetadata(2,"abc")
+await app.tokenURI(1)
+await app.addMetadata(1,"abc")
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.addToken(1,"Mahefroze","Honda",100,1,ethers.utils.parseEther("1"),{value:ethers.utils.parseEther("1")});
+await app.addToken(1,"Mahefroze","Honda",100,1,ethers.utils.parseEther("1"),"abc",{value:ethers.utils.parseEther("1")});
+const app = await contract.attach('0x0165878A594ca255338adfa4d48449f69242Eb8F')
+const contract = await ethers.getContractFactory('Insurance');
+await app.callStatic.totalUsers()
+await app.totalUsers()
+app
+await app.addToken(2,"Mahefroze","Honda",100,1,ethers.utils.parseEther("1"),"abc",{value:ethers.utils.parseEther("1")});
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.addToken(1,"Mahefroze","Honda",100,1,ethers.utils.parseEther("1"),"abc",{value:ethers.utils.parseEther("1")});
+const app = await contract.attach('0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0')
+const contract = await ethers.getContractFactory('Insurance');
+await app.tokenURI(1)
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.addToken(1,"abc","def",1,0,ethers.utils.parseEther("1"),"abc",{value:ethers.utils.parseEther("1")});
+await app.balanceOf('0x70997970C51812dc3A010C7d01b50e0d17dc79C8')
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+app
+const app = await contract.attach('0x5FbDB2315678afecb367f032d93F642f64180aa3')
+const contract = await ethers.getContractFactory('Insurance');
+app
+const provider = new ethers.providers.JsonRpcProvider
+npx hardhat accounts
+npx hardat accounts
+for (const account of accounts) {console.log("%s (%i ETH)",account.address, ethers.utils.formatEther( await provider.getBalance(account.address)));}
+const provider = await ethers.provider;
+const accounts = await ethers.getSigners()
+await app.symbol()
+awaiy app.symbol()
+app
+const app = await contract.attach('0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512')
+const contract = await ethers.getContractFactory('Insurance');
+app
+await app.ownerOf(1)
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.addToken(1,"Mahefroze","Honda",1,0,ethers.utils.parseEther("1"),"abcssksh",{value:ethers.utils.parseEther("1")})
+await app.addToken(1,"Mahefroze","Honda",1,0,ethers.utils.parseEther("1"),"abcssksh".{value:ethers.utils.parseEther("1")})
+app
+const app = await contract.attach('0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512')
+const contract = await ethers.getContractFactory('Insurance');
+await app.ownerOf(11)
+await app.ownerOf(4)
+await app.ownerOf(20)
+await app.ownerOf(10)
+await app.ownerOf(2)
+await app.ownerOf(1)
+app
+await app.balanceOf('0x70997970C51812dc3A010C7d01b50e0d17dc79C8')
+const app = await contract.attach('0x5FbDB2315678afecb367f032d93F642f64180aa3')
+const contract = await ethers.getContractFactory('Insurance');
+app
+await app.name()
+await app.name
+await app.name()
+app
+await app.symbol()
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+app
+await app.balanceOf('0x70997970C51812dc3A010C7d01b50e0d17dc79C8')
+app
+const app = await contract.attach('0xA51c1fc2f0D1a1b8494Ed1FE312d7C3a78Ed91C0')
+const contract = await ethers.getContractFactory('Insurance');
+for (const account of accounts) {console.log("%s (%i ETH)",account.address, ethers.utils.formatEther( await provider.getBalance(account.address)));}
+for (const account of accounts1) {console.log("%s (%i ETH)",account.address, ethers.utils.formatEther( await provider1.getBalance(account.address)));}
+const provider = await ethers.provider;
+const accounts = await ethers.getSigners()
+await app.addToken(2,"Mahefroze","Honda",100,0,ethers.utils.parseEther("1"))
+await app.addToken(1,"Mahefroze","Honda",100,0,ethers.utils.parseEther("1"))
+app
+const app = await contract.attach('0xA51c1fc2f0D1a1b8494Ed1FE312d7C3a78Ed91C0')
+const contract = await ethers.getContractFactory('Insurance');
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',3,"bafybeiewmzqsguli5kxzozedq5cizn2ug6dbpxngz7kza5kwfexzm44xdy",{value:ethers.utils.parseEther("1")})
+await app.addToken(3,"Mahefroze","Honda",1000,0,ethers.utils.parseEther("1"));
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',2,"bafybeiewmzqsguli5kxzozedq5cizn2ug6dbpxngz7kza5kwfexzm44xdy",{value:ethers.utils.parseEther("1")})
+await app.addToken(2,"Mahefroze","Honda",1000,0,1);
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',1,"bafybeiewmzqsguli5kxzozedq5cizn2ug6dbpxngz7kza5kwfexzm44xdy",{value:ethers.utils.parseEther("1")})
+await app.addToken(1,"Mahefroze","Honda",1000,0,ethers.utils.parseEther("1"));
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',1,"bafybeiewmzqsguli5kxzozedq5cizn2ug6dbpxngz7kza5kwfexzm44xdy",{value:"1 ether"})
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',1,"bafybeiewmzqsguli5kxzozedq5cizn2ug6dbpxngz7kza5kwfexzm44xdy",{value:1ether})
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',1,"bafybeiewmzqsguli5kxzozedq5cizn2ug6dbpxngz7kza5kwfexzm44xdy",{value:1 ether})
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',1,"bafybeiewmzqsguli5kxzozedq5cizn2ug6dbpxngz7kza5kwfexzm44xdy",{value:1})
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',1,"bafybeiewmzqsguli5kxzozedq5cizn2ug6dbpxngz7kza5kwfexzm44xdy",{value:1)
+await app.addToken(1,"Mahefroze","Honda",1000,0,1);
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',1,"bafybeiewmzqsguli5kxzozedq5cizn2ug6dbpxngz7kza5kwfexzm44xdy",{value:ethers.utils.parseEther("1")})
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',1,"bafybeiewmzqsguli5kxzozedq5cizn2ug6dbpxngz7kza5kwfexzm44xdy",{value:1 ether})
+await app.addToken(1,"Mahefroze","Honda",1000,0,1);
+await app.addToken(1,"Mahefroze","Honda",1000,0,0.33);
+await app.addToken(1,"Mahefroze","Honda",1000,0,335040000000000000);
+await app.addToken(1,"Mahefroze","Honda",1000,335040000000000000,{value:ethers.utils.parseEther("0.4")});
+await app.addToken(1,"Mahefroze","Honda",1000,335040000000000000,{value:ethers.utils.parseEther("0.33504")});
+ethers.utils.parseEther("0.33504")
+ethers.utils.parseEther("0.4")
+utils.parseEther("0.4")
+await app.addToken(1,"Mahefroze","Honda",1000,0.4,{value:ethers.utils.parseEther(4/10)});
+await app.addToken(1,"Mahefroze","Honda",1000,0.4,{value:ethers.utils.parseEther("0.4")});
+await app.addToken(1,"Mahefroze","Honda",1000,0.4,{value:ethers.utils.parseEther("0.4"))
+await app.addToken(1,"Mahefroze",100,10,10)
+app
+const app = await contract.attach('0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9')
+const contract = await ethers.getContractFactory('Insurance');
+app
+privateKey1
+const privateKey1 = wallet1.privateKey
+const wallet1 = ethers.Wallet.fromMnemonic(accounts.mnemonic, accounts.path + `/${index}`); 
+const index = 0;
+accounts
+const accounts = config.networks.hardhat.accounts;
+for (const account of accounts1) {console.log("%s (%i ETH)",account.address, ethers.utils.formatEther( await provider1.getBalance(account.address)));}
+for (const account of accounts1) {console.log("%s (%i ETH)",account.address, ethers.utils.formatEther( await provider.getBalance(account.address)));}
+for (const account of accounts1) {console.log("%s (%i ETH)",account.address, ethers.utils.formatEther
+const provider1 = await ethers.provider;
+const accounts1 = await ethers.getSigners()
+const accounts = await ethers.getSigners()
+privateKeyt
+const privateKeyt = wallett.privateKey
+const wallett = ethers.Wallet.fromMnemonic(accounts.mnemonic, accounts.path + `/${indext}`);
+const indext = 1; 
+const index = 1; 
+privateKey2
+const privateKey2 = wallet2.privateKey
+const wallet2 = ethers.Wallet.fromMnemonic(accounts.mnemonic, accounts.path + 1); 
+privateKey1
+const privateKey1 = wallet1.privateKey
+const wallet1 = ethers.Wallet.fromMnemonic(accounts.mnemonic, accounts.path + `/${index}`);
+const index = 0; 
+const accounts = config.networks.hardhat.accounts;
+await app.tokenURI(0)
+await app.tokenURI(1)
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',1,'bafybeidip3vdhsmzjpoeroouanrappazc5v4yonrjclirbzgs4roc7mava/1.json')
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.buy(1,"Mahefroze",100,10,10)
+const app = await contract.attach('0xE6E340D132b5f46d1e472DebcD681B2aBc16e57E')
+const contract = await ethers.getContractFactory('Insurance');
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.balanceOf(1)
+await app.tokenURI(2)
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',2,"https://bafybeibh2a3iwz76ukochehc4ikjhcxhwe46pjuiqqsyqvsghbjakdhmhu.ipfs.w3s.link/9_Mahefroze.json")
+await app.buy(2,"Mahnoor",100,10,10)
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',1,"https://bafybeibh2a3iwz76ukochehc4ikjhcxhwe46pjuiqqsyqvsghbjakdhmhu.ipfs.w3s.link/9_Mahefroze.json")
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',2,"https://bafybeibh2a3iwz76ukochehc4ikjhcxhwe46pjuiqqsyqvsghbjakdhmhu.ipfs.w3s.link/9_Mahefroze.json")
+await app.tokenURI(2)
+await app.tokenURI(1)
+await app.callStatic.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',1,'https://bafybeibh2a3iwz76ukochehc4ikjhcxhwe46pjuiqqsyqvsghbjakdhmhu.ipfs.w3s.link/')
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',1,'https://bafybeibh2a3iwz76ukochehc4ikjhcxhwe46pjuiqqsyqvsghbjakdhmhu.ipfs.w3s.link/')
+await app.buy(1,"Mahefroze",100,10,10)
+const app = await contract.attach('0x4A679253410272dd5232B3Ff7cF5dbB88f295319')
+const contract = await ethers.getContractFactory('Insurance');
+await app.tokenURI(2)
+await app.tokenURI(1)
+app
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.callStatic.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',1,'https://bafybeibh2a3iwz76ukochehc4ikjhcxhwe46pjuiqqsyqvsghbjakdhmhu.ipfs.w3s.link/1.json')
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',1,'https://bafybeibh2a3iwz76ukochehc4ikjhcxhwe46pjuiqqsyqvsghbjakdhmhu.ipfs.w3s.link/1.json')
+await app.tokenURI(1)
+await app.setBaseURI('https://bafybeibh2a3iwz76ukochehc4ikjhcxhwe46pjuiqqsyqvsghbjakdhmhu.ipfs.w3s.link/')
+await ap.setBaseURI('https://bafybeibh2a3iwz76ukochehc4ikjhcxhwe46pjuiqqsyqvsghbjakdhmhu.ipfs.w3s.link/')
+app
+await app.buy(1,"Mahefroze",100,10,10)
+const app = await contract.attach('0x59b670e9fA9D0A427751Af201D676719a970857b')
+const contract = await ethers.getContractFactory('Insurance');
+await app.tokenURI(1)
+await app.setBaseURI('https://bafybeibh2a3iwz76ukochehc4ikjhcxhwe46pjuiqqsyqvsghbjakdhmhu.ipfs.w3s.link/')
+app
+const app = await contract.attach('0x3Aa5ebB10DC797CAC828524e59A333d0A371443c')
+const contract = await ethers.getContractFactory('Insurance');
+await app.callStatic.tokenURI(1)
+await app.tokenURI(1)
+await app.setBaseURI('https://bafybeibh2a3iwz76ukochehc4ikjhcxhwe46pjuiqqsyqvsghbjakdhmhu.ipfs.w3s.link/')
+app
+const app = await contract.attach('0x9A9f2CCfdE556A7E9Ff0848998Aa4a0CFD8863AE')
+const contract = await ethers.getContractFactory('Insurance');
+await app.tokenURI(1)
+await app.setBaseURI('https://bafybeibh2a3iwz76ukochehc4ikjhcxhwe46pjuiqqsyqvsghbjakdhmhu.ipfs.w3s.link/')
+app
+const app = await contract.attach('0x0B306BF915C4d645ff596e518fAf3F9669b97016')
+const contract = await ethers.getContractFactory('Insurance');
+await app.setBaseURI("https://bafybeibh2a3iwz76ukochehc4ikjhcxhwe46pjuiqqsyqvsghbjakdhmhu.ipfs.w3s.link/")
+app
+await app.buy(1,"Mahefroze",100,10,10)
+const app = await contract.attach('0x0DCd1Bf9A1b36cE34237eEaFef220932846BCD82')
+const contract = await ethers.getContractFactory('Insurance');
+await app.tokenURI(1)
+await app.tokenURI()
+await app.callStatic.buy(1,"Mahefroze",100,10,10)
+await app.buy(1,"Mahefroze",100,10,10)
+app
+const app = await contract.attach('0xB7f8BC63BbcaD18155201308C8f3540b07f84F5e')
+const contract = await ethers.getContractFactory('Insurance');
+await app.tokenURI(0)
+await app.symbol()
+await app.ownerOf(0)
+app
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+await app.callStatic.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',0)
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',0)
+await app.callStatic.buy(1,'Mahefroze',100,10,10)
+await app.buy(1,'Mahefroze',100,10,10)
+await app.buy(1,"Mahefroze',100,10,10)
+app
+const app = await contract.attach('0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6')
+const contract = await ethers.getContractFactory('Insurance');
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',1)
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',0)
+await app.callStatic.buy(1,"Mahefroze",100,10,10)
+await app.buy(1,"Mahefroze",100,10,10)
+const app = await contract.attach('0x0165878A594ca255338adfa4d48449f69242Eb8F')
+const contract=await ethers.getContractFactory('Insurance');
+const contract = await ethers.getContractFactory(Insurance');
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',1)
+await app.mint(0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266,1)
+0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+await app.mint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266',1)
+await app.callStatic.buy(1,"Maha",100,10,10)
+await app.buy.callStatic(1,"Maha",100,10,10)
+await app.buy(1,"Maha",100,10,10)
+app.buy(1,"Maha",100,10,10)
+app
+const app = await contract.attach('0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9');
+const contract= await ethers.getContractFactory('Insurance');
+const contract = await ethers.getContractFactory(Insurance');
+await app.callStatic.buy(1,"Mahefroze",100,10,10)
+await app.buy(1,"Mahefroze",100,10,10)
+app
+const app = await contract.attach('0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512')
+const contract=await ethers.getContractFactory('Insurance');
+const contract = await ethers.getContractFactory(Insurance');
+await app.buy(1,"Maha",100,1,10)
+await app.buy.call()
+await app.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+app
+await app.buy(1,"Mahefroze",1000,0,100).then((res)=>{data=res})
+await app.buy(1,"Mahefroze",1000,0,100)
+app
+app.buy(1,"Mahefroze",1000,0,400)
+app
+const app = await contract.attach('0x5FbDB2315678afecb367f032d93F642f64180aa3')
+const contract = await ethers.getContractFactory('Insurance');

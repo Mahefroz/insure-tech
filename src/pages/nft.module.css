@@ -1,0 +1,47 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.sub {
+  background-color: aliceblue;
+  border-radius: 12px;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+}
+.form {
+  display: flex;
+  flex-direction: row;
+}
+
+.btn {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: right;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.table {
+  display: flex;
+  flex-direction: row;
+}
+.data {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  font-size: medium;
+}
+.buy {
+  margin-left: 10px;
+  background-color: rgb(53, 195, 198);
+
+  color: white;
+}
+.buy:hover {
+  margin-left: 10px;
+  background-color: green;
+  color: white;
+}
